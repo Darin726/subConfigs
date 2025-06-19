@@ -1,0 +1,10 @@
+PROCESS-NAME,/Applications/ClashX Pro.app/Contents/MacOS/ClashX Pro
+PROCESS-NAME,/Users/dongyayun/Documents/Clash/MetaBin/x86/Clash.Meta
+PROCESS-NAME,/Applications/AdGuardHome/AdGuardHome
+PROCESS-NAME,/Applications/微力同步.app/Contents/Resources/verysync
+DOMAIN-KEYWORD,picol
+DOMAIN-KEYWORD,speedtest
+IP-CIDR,38.147.174.143/32,no-resolve
+IP-CIDR,80.208.225.35/32,no-resolve
+IP-CIDR,107.148.146.17/32,no-resolve
+IP-CIDR,64.112.42.237/32,no-resolve

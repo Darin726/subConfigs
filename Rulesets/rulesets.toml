@@ -1,0 +1,23 @@
+[[rulesets]]
+group = "🌱 Home"
+ruleset = "qianlicao/rules/Home.list"
+
+[[rulesets]]
+group = "✈️ Proxy"
+ruleset = "qianlicao/rules/Proxy.list"
+
+[[rulesets]]
+group = "✈️ Download"
+ruleset = "qianlicao/rules/Download.list"
+
+[[rulesets]]
+group = "✈️ Github"
+ruleset = "qianlicao/rules/Github.list"
+
+[[rulesets]]
+group = "✈️ OpenAi"
+ruleset = "qianlicao/rules/OpenAi.list"
+
+[[rulesets]]
+group = "🎯 全球直连"
+ruleset = "qianlicao/rules/Direct.list"
