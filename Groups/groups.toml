@@ -1,0 +1,71 @@
+[[custom_groups]]
+name = "🔰 节点选择"
+type = "select"
+rule = ["[]♻️ 自动选择", "[]♻️ 自动选择_HK", "[]🎯 全球直连", "[]🇭🇰 HK", ".*"]
+
+[[custom_groups]]
+name = "♻️ 自动选择"
+type = "url-test"
+rule = [".*"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "♻️ 自动选择_HK"
+type = "url-test"
+rule = ["(HGC|HKBN|HKT|深台|彰化|日本|东京|首尔|hk|Hong|HK|SG|TW|JP|Japan|港|tw)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇭🇰 HK"
+type = "select"
+rule = ["(HGC|HKBN|HKT|深台|彰化|日本|东京|首尔|hk|Hong|HK|SG|TW|JP|Japan|港|tw)"]
+
+[[custom_groups]]
+name = "🌱 Home"
+type = "select"
+rule = ["[]🎯 全球直连",
+"(Ubuntu)",
+"[]🔰 节点选择"]
+
+[[custom_groups]]
+name = "✈️ Proxy"
+type = "select"
+rule = [
+    "[]🔰 节点选择",
+    "[]♻️ 自动选择",
+    "[]🎯 全球直连",
+    ".*"
+]
+
+[[custom_groups]]
+name = "✈️ Download"
+type = "select"
+rule = [
+    "[]🔰 节点选择",
+    "[]♻️ 自动选择",
+    "[]🎯 全球直连",
+    ".*"
+]
+
+[[custom_groups]]
+name = "✈️ OpenAi"
+type = "select"
+rule = [
+    "[]🔰 节点选择",
+    "[]♻️ 自动选择",
+    "[]🎯 全球直连",
+    ".*"
+]
+
+[[custom_groups]]
+name = "✈️ Github"
+type = "select"
+rule = [
+    "[]🔰 节点选择",
+    "[]♻️ 自动选择",
+    "[]🎯 全球直连",
+    ".*"
+]
+
