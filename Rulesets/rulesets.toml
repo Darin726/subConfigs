@@ -1,23 +1,23 @@
 [[rulesets]]
 group = "🌱 Home"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/Home.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/Home.list"
 
 [[rulesets]]
 group = "✈️ Proxy"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/Proxy.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/Proxy.list"
 
 [[rulesets]]
 group = "✈️ Download"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/Download.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/Download.list"
 
 [[rulesets]]
 group = "✈️ Github"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/Github.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/Github.list"
 
 [[rulesets]]
 group = "✈️ OpenAi"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/OpenAi.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/OpenAi.list"
 
 [[rulesets]]
 group = "🎯 全球直连"
-ruleset = "https://raw.githubusercontent.com/Darin726/subConfigs/refs/heads/main/Rules/Direct.list"
+ruleset = "https://darin-public.s3.bitiful.net/subConfig/subConfigs/Rules/Direct.list"
